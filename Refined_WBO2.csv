@@ -1,27 +1,27 @@
 Area,State,Address,Contact Number,Verification Status,Latitude,Longitude
 Saltlake,West Bengal,"SaltLake ,West Bengal",9830179101,,22.5796842,88.414312
 Tallygunge phari,West Bengal,"tallygunge Phari ,West Bengal",9831919933,,22.5039521,88.3453353
-Dumdum/north kolkata,West Bengal,"Dumdum/North Kolkata ,West Bengal",9431119656,,22.662608499999997,88.40900429999999
-Dumdum/north kolkata,West Bengal,"Dumdum/North Kolkata ,West Bengal",7439174645,,22.662608499999997,88.40900429999999
+Dumdum/north kolkata,West Bengal,"Dumdum/North Kolkata ,West Bengal",9431119656,,22.6626085,88.40900429999998
+Dumdum/north kolkata,West Bengal,"Dumdum/North Kolkata ,West Bengal",7439174645,,22.6626085,88.40900429999998
 "Durganagar, dumdum",West Bengal,"Durganagar, Dumdum ,West Bengal",9433782957,,22.6493171,88.4149401
-Borokachari dumdum,West Bengal,"Borokachari Dumdum ,West Bengal",9830680887,,22.407011800000003,88.21406390000001
+Borokachari dumdum,West Bengal,"Borokachari Dumdum ,West Bengal",9830680887,,22.407011800000006,88.21406390000001
 Dumdum,West Bengal,"Dumdum ,West Bengal",9804230307,,22.6420109,88.4311688
 Barrakpore,West Bengal,"Barrakpore ,West Bengal",8910645508,,22.767427800000004,88.3883455
 "Talpukur, barrakpore",West Bengal,"talpukur, Barrakpore ,West Bengal",9331004610,,22.7518414,88.3748936
 Konnagar,West Bengal,"Konnagar ,West Bengal",8961186149,,22.699652,88.3183261
-Dankuni,West Bengal,"Dankuni ,West Bengal",9804000000,,22.6809296,88.29701419999999
-"Kundghat, hgly",West Bengal,"Kundghat, HGLY ,West Bengal",8420083427,,22.481249899999998,88.3448896
-Uttarpara,West Bengal,"Uttarpara ,West Bengal",7947359645,,22.6700938,88.33549980000001
-Sahaganj,West Bengal,"sahaganj ,West Bengal",9432257213,,22.930571899999997,88.3943282
-Serampur,West Bengal,"serampur ,West Bengal",9804006628,,22.750521300000003,88.3405772
-Bagha jatin,West Bengal,"Bagha Jatin ,West Bengal",9830083350,,22.483880300000003,88.3754451
+Dankuni,West Bengal,"Dankuni ,West Bengal",9804000000,,22.6809296,88.29701419999998
+"Kundghat, hgly",West Bengal,"Kundghat, HGLY ,West Bengal",8420083427,,22.4812499,88.3448896
+Uttarpara,West Bengal,"Uttarpara ,West Bengal",7947359645,,22.6700938,88.33549980000002
+Sahaganj,West Bengal,"sahaganj ,West Bengal",9432257213,,22.9305719,88.3943282
+Serampur,West Bengal,"serampur ,West Bengal",9804006628,,22.750521300000006,88.3405772
+Bagha jatin,West Bengal,"Bagha Jatin ,West Bengal",9830083350,,22.483880300000006,88.3754451
 Raghunathpur,West Bengal,"raghunathpur ,West Bengal",9733617759,,23.5343795,86.6686635
 Kolkata,West Bengal,"Kolkata ,West Bengal",8447390017,,22.572646,88.363895
 Kolkata,West Bengal,"Kolkata ,West Bengal",9434116824,,22.572646,88.363895
 Kolkata,West Bengal,"Kolkata ,West Bengal",9674508854,,22.572646,88.363895
 Kolkata,West Bengal,"Kolkata ,West Bengal",9883272794,,22.572646,88.363895
 Kolkata,West Bengal,"Kolkata ,West Bengal",8910096323,,22.572646,88.363895
-Madhyamgram,West Bengal,"Madhyamgram ,West Bengal",9830070024,,22.6924004,88.46533670000001
+Madhyamgram,West Bengal,"Madhyamgram ,West Bengal",9830070024,,22.6924004,88.46533670000002
 Kolkata,West Bengal,"Kolkata ,West Bengal",7059323029,,22.572646,88.363895
 Beliaghata,West Bengal,"Beliaghata ,West Bengal",9830560234,,22.5628793,88.3962477
 Kolkata,West Bengal,"Kolkata ,West Bengal",7044074009,,22.572646,88.363895
@@ -49,44 +49,44 @@ Beleghata,West Bengal,"BELEGHATA ,West Bengal",7439175645,,22.5628793,88.3962477
 Beleghata,West Bengal,"BELEGHATA ,West Bengal",9007427926,,22.5628793,88.3962477
 Beleghata,West Bengal,"BELEGHATA ,West Bengal",9674903883,,22.5628793,88.3962477
 Beleghata,West Bengal,"BELEGHATA ,West Bengal",9830361704,,22.5628793,88.3962477
-Habra,West Bengal,"Habra ,West Bengal",9007915501,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",9733617757,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",7003873030,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",9089085252,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",9883272794,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",9748761456,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",8910645508,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",6295694761,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",7059564431,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",9064629751,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",9734983811,,22.840809399999998,88.6535105
-Habra,West Bengal,"Habra ,West Bengal",8697381082,,22.840809399999998,88.6535105
-Chinar park,West Bengal,"Chinar Park ,West Bengal",8777068225,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",8910705448,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",9831919933,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",9883235935,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",9674371978,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",8777027437,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",8583949244,,22.6249719,88.43857109999999
-Chinar park,West Bengal,"Chinar Park ,West Bengal",9830126245,,22.6249719,88.43857109999999
+Habra,West Bengal,"Habra ,West Bengal",9007915501,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",9733617757,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",7003873030,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",9089085252,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",9883272794,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",9748761456,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",8910645508,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",6295694761,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",7059564431,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",9064629751,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",9734983811,,22.8408094,88.6535105
+Habra,West Bengal,"Habra ,West Bengal",8697381082,,22.8408094,88.6535105
+Chinar park,West Bengal,"Chinar Park ,West Bengal",8777068225,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",8910705448,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",9831919933,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",9883235935,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",9674371978,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",8777027437,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",8583949244,,22.6249719,88.43857109999998
+Chinar park,West Bengal,"Chinar Park ,West Bengal",9830126245,,22.6249719,88.43857109999998
 South kolkata,West Bengal,"South Kolkata ,West Bengal",7003537716,,22.572646,88.363895
 South kolkata,West Bengal,"South Kolkata ,West Bengal",9830237206,,22.572646,88.363895
 South kolkata,West Bengal,"South Kolkata ,West Bengal",801398551,,22.572646,88.363895
 South kolkata,West Bengal,"South Kolkata ,West Bengal",8013985515,,22.572646,88.363895
 South kolkata,West Bengal,"South Kolkata ,West Bengal",9903999641,,22.572646,88.363895
 South kolkata,West Bengal,"South Kolkata ,West Bengal",9830771061,,22.572646,88.363895
-Lake town,West Bengal,"Lake Town ,West Bengal",8335854941,,22.6034933,88.40399649999999
-Lake town,West Bengal,"Lake Town ,West Bengal",7001029440,,22.6034933,88.40399649999999
-Lake town,West Bengal,"Lake Town ,West Bengal",9804353894,,22.6034933,88.40399649999999
-Lake town,West Bengal,"Lake Town ,West Bengal",6289235283,,22.6034933,88.40399649999999
-Lake town,West Bengal,"Lake Town ,West Bengal",9431119656,,22.6034933,88.40399649999999
+Lake town,West Bengal,"Lake Town ,West Bengal",8335854941,,22.6034933,88.40399649999998
+Lake town,West Bengal,"Lake Town ,West Bengal",7001029440,,22.6034933,88.40399649999998
+Lake town,West Bengal,"Lake Town ,West Bengal",9804353894,,22.6034933,88.40399649999998
+Lake town,West Bengal,"Lake Town ,West Bengal",6289235283,,22.6034933,88.40399649999998
+Lake town,West Bengal,"Lake Town ,West Bengal",9431119656,,22.6034933,88.40399649999998
 North 24 parganas,West Bengal,"North 24 Parganas ,West Bengal",9434116824,,22.6168099,88.402895
 North 24 parganas,West Bengal,"North 24 Parganas ,West Bengal",9733617759,,22.6168099,88.402895
 Konnagar,West Bengal,"konnagar ,West Bengal",8910645508,,22.699652,88.3183261
 Barrackpore,West Bengal,"barrackpore ,West Bengal",9331004610,,22.767427800000004,88.3883455
-Dankuni,West Bengal,"dankuni ,West Bengal",8961186149,,22.6809296,88.29701419999999
-Dankuni,West Bengal,"dankuni ,West Bengal",9903374257,,22.6809296,88.29701419999999
-Dankuni,West Bengal,"dankuni ,West Bengal",9804037559,,22.6809296,88.29701419999999
+Dankuni,West Bengal,"dankuni ,West Bengal",8961186149,,22.6809296,88.29701419999998
+Dankuni,West Bengal,"dankuni ,West Bengal",9903374257,,22.6809296,88.29701419999998
+Dankuni,West Bengal,"dankuni ,West Bengal",9804037559,,22.6809296,88.29701419999998
 Hooghly,West Bengal,"hooghly ,West Bengal",9748428821,,22.9011588,88.3898552
 Hooghly,West Bengal,"hooghly ,West Bengal",8420083427,,22.9011588,88.3898552
 Barrackpore,West Bengal,"barrackpore ,West Bengal",7686920344,,22.767427800000004,88.3883455
@@ -95,7 +95,7 @@ Garia,West Bengal,"garia ,West Bengal",9073141063,,22.4660129,88.3928446
 Barrackpore,West Bengal,"barrackpore ,West Bengal",9163365148,,22.767427800000004,88.3883455
 Kolkata,West Bengal,"kolkata ,West Bengal",9434343870,,22.572646,88.363895
 Kolkata,West Bengal,"kolkata ,West Bengal",9674894610,,22.572646,88.363895
-Tollygunge,West Bengal,"tollygunge ,West Bengal",9830179101,,22.498635699999998,88.3453906
+Tollygunge,West Bengal,"tollygunge ,West Bengal",9830179101,,22.4986357,88.3453906
 Kolkata,West Bengal,"kolkata ,West Bengal",9831919933,,22.572646,88.363895
 Kolkata,West Bengal,"kolkata ,West Bengal",9875311445,,22.572646,88.363895
 Kolkata,West Bengal,"kolkata ,West Bengal",9051832211,,22.572646,88.363895
@@ -108,32 +108,32 @@ Kolkata,West Bengal,"kolkata ,West Bengal",9733419417,,22.572646,88.363895
 Kolkata,West Bengal,"kolkata ,West Bengal",9434051222,,22.572646,88.363895
 Dakkhineswar,West Bengal,"Dakkhineswar ,West Bengal",8240030842,,22.6573134,88.36240759999998
 Howrah,West Bengal,"Howrah ,West Bengal",9007024466,,22.5957689,88.2636394
-Madhyamgram,West Bengal,"Madhyamgram ,West Bengal",8777027437,,22.6924004,88.46533670000001
-Madhyamgram,West Bengal,"Madhyamgram ,West Bengal",9830126245,,22.6924004,88.46533670000001
+Madhyamgram,West Bengal,"Madhyamgram ,West Bengal",8777027437,,22.6924004,88.46533670000002
+Madhyamgram,West Bengal,"Madhyamgram ,West Bengal",9830126245,,22.6924004,88.46533670000002
 Barasat,West Bengal,"Barasat ,West Bengal",9007915501,,22.7247556,88.47893509999999
 Barasat,West Bengal,"Barasat ,West Bengal",9830070024,,22.7247556,88.47893509999999
 Barasat,West Bengal,"Barasat ,West Bengal",8336082447,,22.7247556,88.47893509999999
 Barasat,West Bengal,"Barasat ,West Bengal",9903877589,,22.7247556,88.47893509999999
 Barasat,West Bengal,"Barasat ,West Bengal",9748659459,,22.7247556,88.47893509999999
 Barasat,West Bengal,"Barasat ,West Bengal",9748761456,,22.7247556,88.47893509999999
-Purulia,West Bengal,"Purulia ,West Bengal",6289160044,,23.332202600000002,86.36164050000001
-Baghajatin,West Bengal,"Baghajatin ,West Bengal",9748683892,,22.483880300000003,88.3754451
+Purulia,West Bengal,"Purulia ,West Bengal",6289160044,,23.3322026,86.36164050000002
+Baghajatin,West Bengal,"Baghajatin ,West Bengal",9748683892,,22.483880300000006,88.3754451
 Barrackpore,West Bengal,"Barrackpore ,West Bengal",9733617757,,22.767427800000004,88.3883455
 Barrackpore,West Bengal,"Barrackpore ,West Bengal",8697381082,,22.767427800000004,88.3883455
 Barrackpore,West Bengal,"Barrackpore ,West Bengal",9089085252,,22.767427800000004,88.3883455
 Barrackpore,West Bengal,"Barrackpore ,West Bengal",8017572968,,22.767427800000004,88.3883455
 Barrackpore,West Bengal,"Barrackpore ,West Bengal",8388030406,,22.767427800000004,88.3883455
-Murshidabad-,West Bengal,"Murshidabad- ,West Bengal",9434364512,,24.175903899999998,88.2801785
+Murshidabad-,West Bengal,"Murshidabad- ,West Bengal",9434364512,,24.1759039,88.2801785
 Jadavpur,West Bengal,"Jadavpur ,West Bengal",9831143338,,22.4954988,88.37090079999999
 Jadavpur,West Bengal,"Jadavpur ,West Bengal",9748847715,,22.4954988,88.37090079999999
 Entally,West Bengal,"Entally ,West Bengal",8017711721,,22.5562163,88.372381
 Kasba,West Bengal,"Kasba ,West Bengal",9874843794,,22.5195362,88.3827505
-Tollygunge,West Bengal,"tollygunge ,West Bengal",9831919933,,22.498635699999998,88.3453906
+Tollygunge,West Bengal,"tollygunge ,West Bengal",9831919933,,22.4986357,88.3453906
 Dumdum,West Bengal,"Dumdum ,West Bengal",9431119656,,22.6420109,88.4311688
 Durganagar,West Bengal,"Durganagar, ,West Bengal",9433782957,,22.6493171,88.4149401
 Talpukur,West Bengal,"Talpukur, ,West Bengal",9331004610,,22.7518414,88.3748936
 Konnagar,West Bengal,"Konnagar- ,West Bengal",8961186149,,22.699652,88.3183261
-Serampore,West Bengal,"Serampore ,West Bengal",9804006628,,22.750521300000003,88.3405772
+Serampore,West Bengal,"Serampore ,West Bengal",9804006628,,22.750521300000006,88.3405772
  south kolkata,West Bengal," South Kolkata,West Bengal",9874843794,,,
  south kolkata,West Bengal," South Kolkata,West Bengal",9674903883,,,
 Garia,West Bengal,"Garia,West Bengal",9330931322,,,
@@ -200,8 +200,8 @@ Madhyamgram,West Bengal,"MADHYAMGRAM,West Bengal",9007307499,,,
 Madhyamgram,West Bengal,"MADHYAMGRAM,West Bengal",9433484556,,,
 Madhyamgram,West Bengal,"MADHYAMGRAM,West Bengal",9830126245,,,
 Madhyamgram,West Bengal,"MADHYAMGRAM,West Bengal",9007915501,,,
-Behala,West Bengal,"Behala,West Bengal",290572005 ,,,
-Behala,West Bengal,"Behala,West Bengal",883214778 ,,,
+Behala,West Bengal,"Behala,West Bengal",290572005Â ,,,
+Behala,West Bengal,"Behala,West Bengal",883214778Â ,,,
 Behala,West Bengal,"Behala,West Bengal",9007882261,,,
 Behala,West Bengal,"Behala,West Bengal",8617224256,,,
 Behala,West Bengal,"Behala,West Bengal",9831523226,,,
@@ -240,12 +240,12 @@ Salt lake,West Bengal,"Salt Lake,West Bengal",9830179101,,,
 Salt lake,West Bengal,"Salt Lake,West Bengal",9674903883,,,
 Salt lake,West Bengal,"Salt Lake,West Bengal",7003317392,,,
 Salt lake,West Bengal,"Salt Lake,West Bengal",6289235283,,,
-Kestopur,West Bengal,"Kestopur,West Bengal",331030293 ,,,
+Kestopur,West Bengal,"Kestopur,West Bengal",331030293Â ,,,
 Paikpara,West Bengal,"PaikPara,West Bengal",8981222432,,,
 Belgachia,West Bengal,"Belgachia,West Bengal",7003054589,,,
 Belgachia,West Bengal,"Belgachia,West Bengal",9831105603,,,
 Belgachia,West Bengal,"Belgachia,West Bengal",9830023540,,,
-Baranagar-belghoria,West Bengal,"Baranagar-Belghoria,West Bengal",240358572 ,,,
+Baranagar-belghoria,West Bengal,"Baranagar-Belghoria,West Bengal",240358572Â ,,,
 Baguiati,West Bengal,"Baguiati,West Bengal",9831514085,,,
 Baguiati,West Bengal,"Baguiati,West Bengal",8017483667,,,
 Laketown-jessore,West Bengal,"Laketown-Jessore,West Bengal",6289235283,,,
@@ -358,4 +358,4 @@ New alipur,West Bengal,"New Alipur,West Bengal",9903323331,,,
 Behala,West Bengal,"Behala,West Bengal",9830023540,,,
 Behala,West Bengal,"Behala,West Bengal",9051874959,,,
 Behala,West Bengal,"Behala,West Bengal",7003537716,,,
-Behala,West Bengal,"Behala,West Bengal",7003537236,,,
+
