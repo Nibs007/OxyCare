@@ -1,67 +1,133 @@
-Name of Supplier/CovidHero,Area,District,Contact Number,Meal Type
-Dolar Ranna Ghor ,All Over Kolkata,Kolkata,9831830794,
-Lintu Dhaba ,Kasba,Kolkata,9874401999/7003291232,
-Tiffin Bros ,All Over Kolkata,Kolkata,6289984733,
-Epikyoor ,All Over Kolkata,Kolkata,9123691546/8240648072,
-Inrita's Kitchen ,Sealdah,Kolkata,8910089477/ 8583020877,
-Inrita's Kitchen ,Moulali,Kolkata,8910089477/ 8583020877,
-Inrita's Kitchen ,Taltala,Kolkata,8910089477/ 8583020877,
-Inrita's Kitchen ,CIT Road,Kolkata,8910089477/ 8583020877,
-Inrita's Kitchen ,Park Circus,Kolkata,8910089477/ 8583020877,
-Nishat Tasnim ,Beck Bagan,Kolkata,8697767907/9051811210,
-Amrito Home Delivery ,All Over Kolkata,Kolkata,9051159815,
-Priyank Kothari ,All Over Kolkata,Kolkata,9051376319,
-Mrs Kitchen ,New Town,North 24 parganas,9830574772,
-Sarvasv Food ,All Over Kolkata,Kolkata,8240571316/9007545785,
-Arnab Home Delivery ,All Over Kolkata,Kolkata,9051159815,
-"Bhramori Roy, Kheyechhe Cloud Kitchen",South Kolkata,Kolkata,9830041714,
-Spoonfuel ,All Over Kolkata,Kolkata,9007760418,
-Bhuri Bhoj ,Howrah,Howrah,9051831115,
-InstaDiet,All Over Kolkata,Kolkata,Website,
-"Debasree Basu, Subhra Basu ",Belgachia,Kolkata,9674074411/ 9051333386,
-"Debasree Basu, Subhra Basu ",Paikpara,Kolkata,9674074411/ 9051333386,
-Food For Soul ,South Kolkata,Kolkata,9477983961,
-JustMyRoots ,All Over Kolkata,Kolkata,7777027222,
-OGS Kitchen,Howrah,Howrah,8697082035,
-Meals By Mom,Howrah,Howrah,7439311158,
-Vrinda Patodia,Howrah,Howrah,9433090588,
-Sramjibi Canteen,Howrah,Howrah,9748434309,
-Amrito Home Delivery,Howrah,Howrah,9051159815,
-Dolar Ranna Ghar,Howrah,Howrah,9831830794,
-Bhuri Bhoj,Howrah,Howrah,9051831115,
-Mrs Kitchen,Howrah,Howrah,8910928400,
-Turni Dhar,Howrah,Howrah,9987508334,
-Spoonfuel,Howrah,Howrah,9007760418,
-Ghar Ki Rasoi,Howrah,Howrah,9051919191/9874987724,
-The Hungry Bear,Howrah,Howrah,9831397018,
-Nishat Tasnim,Howrah,Howrah,8697767907/9051811210,
-Sramjibi Canteen,Jadavpur,Kolkata,9748434309,
-Shailja Mundhra,All Over Kolkata,Kolkata,9830220594, Veg
-Zeera,All Over Kolkata,Kolkata,9830066624, Veg / Non
-Unnati Kitchen,All Over Kolkata,Kolkata,9830610008, Veg
-Shweta Jain,All Over Kolkata,Kolkata,9874987724, Veg
-Nitu Saraff,All Over Kolkata,Kolkata,9883132649, Veg
-Annapurna Kitchen,All Over Kolkata,Kolkata,6290313657, Veg
-Manika Ain,All Over Kolkata,Kolkata,6289956434, Veg / Non
-Aditi Arora,All Over Kolkata,Kolkata,9831179079, Veg
-Tiffin Bros,All Over Kolkata,Kolkata,6289984733, Veg
-Saini Bhattacharya,Baguiati,,7980847805,
-Saini Bhattacharya,Saltlake,,7980847805,
-Saini Bhattacharya,Laketown,,7980847805,
-Saini Bhattacharya,Bangur,,7980847805,
-Saini Bhattacharya,Rajarhat,,7980847805,
-MB,Madhyamgram,,9836050254,
-MB,Doltala,,9836050254,
-MB,Ganganagar,,9836050254,
-Amrita Home Delivery,Garia,,9051159815,
-Amrita Home Delivery,Santoshpur,,9051159815,
-Amrita Home Delivery,Jadavpur,,9051159815,
-Snighdha Deora,Salt Lake and adjacent areas,,9007760418,
-Bhuriboj,Bali,,9051831115,
-Bhuriboj,Belur,,9051831115,
-Bhuriboj,Uttarpara,,9051831115,
-Anari,South Kolkata,,9831002110,
-Cooked with Care,All Over Kolkata,,9007640487/8910480551/9331110327,
-Naktala Udayan Sangha,Naktala,,9804849330 / 8240455701/8334819350,
-Agrata Dutta,Lake Gardens,,9940675278,
-Agrata Dutta,Jodhpur Park,,9940675278,
+Name of Supplier/CovidHero,Area,Contact Number
+Dolar Ranna Ghor ,All Over Kolkata,9831830794
+Lintu Dhaba ,Kasba,9874401999/7003291232
+Tiffin Bros ,All Over Kolkata,6289984733
+Epikyoor ,All Over Kolkata,9123691546/8240648072
+Inrita's Kitchen ,Sealdah,8910089477/ 8583020877
+Inrita's Kitchen ,Moulali,8910089477/ 8583020877
+Inrita's Kitchen ,Taltala,8910089477/ 8583020877
+Inrita's Kitchen ,Cit Road,8910089477/ 8583020877
+Inrita's Kitchen ,Park Circus,8910089477/ 8583020877
+Nishat Tasnim ,Beck Bagan,8697767907/9051811210
+Amrito Home Delivery ,All Over Kolkata,9051159815
+Priyank Kothari ,All Over Kolkata,9051376319
+Mrs Kitchen ,Newtown,9830574772
+Sarvasv Food ,All Over Kolkata,8240571316/9007545785
+Arnab Home Delivery ,All Over Kolkata,9051159815
+"Bhramori Roy, Kheyechhe Cloud Kitchen",South Kolkata,9830041714
+Spoonfuel ,All Over Kolkata,9007760418
+Bhuri Bhoj ,Howrah,9051831115
+InstaDiet,All Over Kolkata,Website
+"Debasree Basu, Subhra Basu ",Belgachia,9674074411/ 9051333386
+"Debasree Basu, Subhra Basu ",Paikpara,9674074411/ 9051333386
+Food For Soul ,South Kolkata,9477983961
+JustMyRoots ,All Over Kolkata,7777027222
+OGS Kitchen,Howrah,8697082035
+Meals By Mom,Howrah,7439311158
+Vrinda Patodia,Howrah,9433090588
+Sramjibi Canteen,Howrah,9748434309
+Amrito Home Delivery,Howrah,9051159815
+Dolar Ranna Ghar,Howrah,9831830794
+Bhuri Bhoj,Howrah,9051831115
+Mrs Kitchen,Howrah,8910928400
+Turni Dhar,Howrah,9987508334
+Spoonfuel,Howrah,9007760418
+Ghar Ki Rasoi,Howrah,9051919191/9874987724
+The Hungry Bear,Howrah,9831397018
+Nishat Tasnim,Howrah,8697767907/9051811210
+Sramjibi Canteen,Jadavpur,9748434309
+Shailja Mundhra,All Over Kolkata,9830220594
+Zeera,All Over Kolkata,9830066624
+Unnati Kitchen,All Over Kolkata,9830610008
+Shweta Jain,All Over Kolkata,9874987724
+Nitu Saraff,All Over Kolkata,9883132649
+Annapurna Kitchen,All Over Kolkata,6290313657
+Manika Ain,All Over Kolkata,6289956434
+Aditi Arora,All Over Kolkata,9831179079
+Tiffin Bros,All Over Kolkata,6289984733
+Saini Bhattacharya,Baguiati,7980847805
+Saini Bhattacharya,Saltlake,7980847805
+Saini Bhattacharya,Lake Town,7980847805
+Saini Bhattacharya,Bankura,7980847805
+Saini Bhattacharya,Rajarhat,7980847805
+MB,Madhyamgram,9836050254
+MB,Doltala,9836050254
+MB,Ganganagar,9836050254
+Amrita Home Delivery,Garia,9051159815
+Amrita Home Delivery,Santoshpur,9051159815
+Amrita Home Delivery,Jadavpur,9051159815
+Snighdha Deora,Area,9007760418
+Bhuriboj,Ballygunge,9051831115
+Bhuriboj,Belur,9051831115
+Bhuriboj,Uttarpara,9051831115
+Anari,South Kolkata,9831002110
+Cooked with Care,All Over Kolkata,9007640487/8910480551/9331110327
+Naktala Udayan Sangha,Naktala,9804849330 / 8240455701/8334819350
+Agrata Dutta,Lake Gardens,9940675278
+Agrata Dutta,Jodhpur Park,9940675278
+Rotaract,South Kolkata,6291852535/6290634180
+Ghar ka Rasoi,Kolkata,9051919191/9874987724
+Meals by Mom,Park Street,7439311158
+"Sromojibi Canteen, Jadavpur",Kolkata,9748434309
+The Hungry Bear,Saltlake,9831397018
+Zeera,Tollygunge,9830066624
+Moody Foody by Ankita,All Over Kolkata,9610096439
+Aditi Arora,All Over Kolkata,9831179079
+Ekdalia Cocina,Gariahat,8240798929
+Asmita and Anurag,Area,8482055025/9748640219
+Kinkini Sengupta,South Kolkata,7044630806
+Meera Batra,Saltlake,8240658223
+Subhasish/Tapu,Santoshpur,9007072303
+SHRAMAJIBI CANTEEN,Jhargram,9932287890
+Harsh Kedia & Ankush Bansal,New Alipore,8697449350/9811560561
+Snehabrishti Nandi,Anwar Shah Road,8584090203
+Srabasti Ghosh,Bowbazar,8902703686
+Ruchira Kitchen,Southern Avenue,"9051571333, 7439730481, 9874666358"
+Rotaract Club of Joka,South Kolkata,"8777784841 , 6290634180 , 8240965454"
+Kuldeep Kaur,Around Sn Roy Road And New Alipore,9674180007
+Swastik Pal,Rajarhat,9831962983
+DANKUNI FOOD DELIVERY,Dankuni,6291339947
+KABERI GHOSH,South Calcutta,9903378663
+Manobik rannaghor,Siliguri,9749683775
+Zeera,Bhawanipur To Ruby,9830066624
+Ekdalia Cocina,Ballygunge,8240798929
+Asmita and Anurag,Tollygunge,8482055025/9748640219
+Subhasish/Tapu,Baranagar,9007072303
+Harsh Kedia & Ankush Bansal,Chetla,8697449350/9811560561
+Snehabrishti Nandi,South City,8584090203
+Srabasti Ghosh,Shovabazar,8902703686
+Ruchira Kitchen,Gariahat,"9051571333, 7439730481, 9874666358"
+Swastik Pal,Chinar Park,9831962983
+Ekdalia Cocina,Golpark,8240798929
+Asmita and Anurag,Golf Green,8482055025/9748640219
+Harsh Kedia & Ankush Bansal,Tollygunge,8697449350/9811560561
+Snehabrishti Nandi,Bikramgarh,8584090203
+Srabasti Ghosh,Hatibagan,8902703686
+Ruchira Kitchen,Golpark,"9051571333, 7439730481, 9874666358"
+Swastik Pal,Newtown,9831962983
+Ekdalia Cocina,Kasba,8240798929
+Asmita and Anurag,Lake Gardens,8482055025/9748640219
+Harsh Kedia & Ankush Bansal,Kalighat,8697449350/9811560561
+Snehabrishti Nandi,Bijoygorh,8584090203
+Srabasti Ghosh,Ahiritola,8902703686
+Ruchira Kitchen,Habra,"9051571333, 7439730481, 9874666358"
+Swastik Pal,Airport,9831962983
+Asmita and Anurag,Jodhpur Park,8482055025/9748640219
+Harsh Kedia & Ankush Bansal,Haridebpur,8697449350/9811560561
+Snehabrishti Nandi,Golf Green,8584090203
+Srabasti Ghosh,Khanna,8902703686
+Ruchira Kitchen,Ballygunge,"9051571333, 7439730481, 9874666358"
+Swastik Pal,Teghoria,9831962983
+Harsh Kedia & Ankush Bansal,Behala,8697449350/9811560561
+Snehabrishti Nandi,Pollishree,8584090203
+Srabasti Ghosh,Ultadanga,8902703686
+Ruchira Kitchen,Chetla,"9051571333, 7439730481, 9874666358"
+Swastik Pal,Baguiati,9831962983
+Snehabrishti Nandi,Ranikuthi,8584090203
+Ruchira Kitchen,Kasba,"9051571333, 7439730481, 9874666358"
+Swastik Pal,Nagerbajar,9831962983
+Snehabrishti Nandi,Netajinogor,8584090203
+Ruchira Kitchen,Bhawanipur,"9051571333, 7439730481, 9874666358"
+Snehabrishti Nandi,Azadgorh,8584090203
+Ruchira Kitchen,Jadavpur,"9051571333, 7439730481, 9874666358"
+Snehabrishti Nandi,South City,8584090203
